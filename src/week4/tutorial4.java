@@ -4,8 +4,6 @@ public class tutorial4 {
     public static void main (String[]args) {
         xMethod(5);
     }
-
-
     //QUESTION 1A   -> print = 5 4 3 2 1
     public static void xMethod ( int n){
         if (n > 0) {
@@ -21,9 +19,4 @@ public class tutorial4 {
 //            System.out.println(n + " ");
 //        }
 //    }
-
-    public static void Recursive4 {
-
-    }
-
 }
